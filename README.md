@@ -1,2 +1,3 @@
-# trabajoFinal2
-entrega de trabajo final 2
+Libreria Patito
+
+estudiante: Medina Rodriguez Yamil Alexis
